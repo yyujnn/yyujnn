@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDC74,150:FFB399&height=230&section=header&text=Hello!&fontColor=ffffff&fontSize=70&fontAlignY=37&desc=yyujnn's%20GitHub%20Profile&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAAAF,150:FFB399&height=230&section=header&text=Hello!&fontColor=ffffff&fontSize=70&fontAlignY=37&desc=yyujnn's%20GitHub%20Profile&descAlignY=55" />
 </p>
 <br>   
     
@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/yujjne/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://yujjne.tistory.com" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=tistory&logoColor=white"/></a>
 
-<a href="mailto:yujin3504@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yujin3504@gmail.com-C58A52?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:yujin3504@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yujin3504@gmail.com-808080?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br>
 <br>
