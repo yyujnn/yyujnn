@@ -2,14 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,150:FFBBC6&height=230&section=header&text=yyujnn's%20GitHub&fontColor=ffffff&fontSize=70&fontAlignY=37" />
 </p>
-<br>   
-    
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyujnn&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+
+<br>
 
 ### ☁️SNS List☁️<br>
-<a href="https://www.instagram.com/yujjne/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://yujjne.tistory.com" target="_blank"><img src="https://img.shields.io/badge/DevBlog-F06B66?style=flat-square&logo=tistory&logoColor=white"/></a>
-
-<a href="mailto:yujin3504@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yujin3504@gmail.com-808080?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://yujjne.tistory.com"><img src="https://img.shields.io/badge/DevBlog-ff5a4a?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://www.instagram.com/yujjne/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:yujin3504@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br><br>
 
